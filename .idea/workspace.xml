@@ -16,7 +16,13 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="43e934da-5a8a-48b0-8624-4f5534b99a13" name="Default Changelist" comment="">
@@ -31,6 +37,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
   <component name="ProjectId" id="1gBgOE2Gfm8Q7EL4oZwQ5xqkCP8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,6 +50,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,7 +60,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597593366392</updated>
-      <workItem from="1597593368328" duration="966000" />
+      <workItem from="1597593368328" duration="1072000" />
+      <workItem from="1597595292636" duration="1036000" />
+      <workItem from="1597598453328" duration="628000" />
+      <workItem from="1597626116371" duration="67000" />
     </task>
     <servers />
   </component>
@@ -62,13 +75,46 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom" timestamp="1597598443436">
+      <screen x="-480" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.bottom/0.23.1440.877/-480.-1057.1920.1057@-480.-1057.1920.1057" timestamp="1597598443436" />
+    <state width="1899" height="285" key="GridCell.Tab.0.center" timestamp="1597598443435">
+      <screen x="-480" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.center/0.23.1440.877/-480.-1057.1920.1057@-480.-1057.1920.1057" timestamp="1597598443435" />
+    <state width="1899" height="285" key="GridCell.Tab.0.left" timestamp="1597598443434">
+      <screen x="-480" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.left/0.23.1440.877/-480.-1057.1920.1057@-480.-1057.1920.1057" timestamp="1597598443434" />
+    <state width="1899" height="285" key="GridCell.Tab.0.right" timestamp="1597598443435">
+      <screen x="-480" y="-1057" width="1920" height="1057" />
+    </state>
+    <state width="1899" height="285" key="GridCell.Tab.0.right/0.23.1440.877/-480.-1057.1920.1057@-480.-1057.1920.1057" timestamp="1597598443435" />
+    <state x="-11" y="-890" key="SettingsEditor" timestamp="1597626102510">
+      <screen x="-480" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="-11" y="-890" key="SettingsEditor/0.23.1440.877/-480.-1057.1920.1057@-480.-1057.1920.1057" timestamp="1597626102510" />
     <state x="145" y="-822" width="670" height="676" key="search.everywhere.popup" timestamp="1597593876413">
       <screen x="-480" y="-1057" width="1920" height="1057" />
     </state>
