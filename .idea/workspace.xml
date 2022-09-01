@@ -28,8 +28,87 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43e934da-5a8a-48b0-8624-4f5534b99a13" name="Default Changelist" comment="fix : url 변경">
+    <list default="true" id="43e934da-5a8a-48b0-8624-4f5534b99a13" name="Default Changelist" comment="fix : Gemfile.lock">
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Cache/b7/9606fb3afea5bd1609ed40b622142f1c98125abcfe89a76a661b0e8e343910" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/01/ef069c8da1d62d97ae361f9792e521cc2628d6fdf0aa87fbfdc7ba3e175361" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/0d/cd45d949e04cad3f7859f436831cbd76d0202fdacf7034ea9205f119616308" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/1f/69d72546139b744277cc9e9fb37f2d0a0b1bf1551909172900a5f1289a2d4d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/32/3fd77cfd60d4cf0203ad4a6b0841c22def5db06804676194e1ba371f64690a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/42/d8698f05fb17a5003dae209ba38bd4f390b3499ec2dd6b3341f8b97a789609" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/43/e62f46aa50b3f5e8e1bc87bc1cca575e5e2584b53d3e895540fd8e7ced3af5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/56/1d57cb7ccf76ba0de199d6b9145cfcc2cb3f15336dad4922c812521314848e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/5a/680c6bd6ac223ed3b4e6623a8aba7326df183837413d5a95373bbd29fe7990" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/63/7e252fa8460c2278df772e6dfbf4934329e2f03a9174070b70d0883886b435" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/78/d585f942c540e37cca99affd6617b17a2bfdb9505295e909d3f1bd31d11ed4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/7c/3d47d496d944acbb27d3bdeff174957e7042c71f4a514ce252b3d73808a523" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/98/222f91c82738d0fa7f14e52f98c0f0a418e5b66beee7201fd9d8c05a446827" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/99/5a9ddbb08fc8c04bf664871e5be7aadd72ffe9038e94019bf73928b4d5ccdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/9a/f02b5eed916e634e9dd6c5394f6863d3531aa87d87d3bb097dd619e2e74d05" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/a6/ff8b0b3e03189bc70b332583af8f7768ebcf385458286d67b7778d8db52acb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ac/61ab33993bba3e1c7bdd6cdc2a4ab0b8a9c36c4df7625c576a0527c8f11bb1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ae/e7ccb4d2c00f0f85f06c3de54d8f34bacf2bb8679f3751230312b7f6b05aa8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ba/4012642f6b80023625d5f9529e66e0277fdf0c0b027665cc3665110e1e6787" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c8/42ccd0b10e6476a14e75661fd578c5fc9278cb4a5df6e7c1a311302e9940b6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/c9/0fb0cfe3fa7e210cd6e8ef28f5af4db5495b26d5ba4512a090f7df041709fc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ca/b8b278c7e75237af7ad8243b9c3bcb930892a05977cdc36c8f5e36f4599f7b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ca/b936230b9cf8d5490582f69e055a388040b6b1afabdde4cdea53d9299ec00f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ce/17e92cf66e24b934832ae2a7cfcff87eac105202e7093c87ff312e911a602a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/da/f251c11c26f3eada523489d68b3cd05c4e5c8b58617748002da578897b76ab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e1/936bd3888f5ad531a4310905d9dab40e93ff4cc4e103a2fb8e916b72c3462a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e3/b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e5/0df428ad42ecca458acbff74b77419340d1a5ff6701c96267549d557fafefe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e5/79e9a997f0f9ceeeca3f862d17aa946c34a94da8f5ed66771dbc426c40f21a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/eb/1c0bf13193b8db9122be473c3b60896e1dd5a76af4e7b68228f080956427b9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f8/d7bf2184cad81d8ff1349b56fc2b79c7d4b0e14d380210eb974dcb51be2fbd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/fd/aa4200cef2544ec568b25970b3a49cf9b4f3d7015485506ccda914caf9c5b9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/2018/02/05/welcome-to-jekyll/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/2018/02/06/must-read-books-for-programmers/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/2018/02/06/plan-your-day-from-the-evening/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/2018/02/06/the-best-way-to-decorate-your-desktop/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/2018/02/08/10-tips-to-improve-your-workflow/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/2018/02/08/does-minimalism-help-in-a-career/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/2018/02/08/how-to-be-productive/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/2018/02/08/how-to-organize-a-business-day/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/2018/02/08/where-I-rest-after-work/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/2018/03/02/style-guide/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/category/books/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/category/decoration/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/category/guide/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/category/jekyll/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/category/life/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/category/minimalism/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/category/productivity/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/category/rest/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/contact/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/contact/thanks/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/images/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/images/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/images/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/images/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/images/preview.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/js/evil-icons.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/js/jquery-3.3.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/js/jquery.fitvids.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/js/simple-jekyll-search.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/page/2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/search.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/tags/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +165,7 @@
       <workItem from="1597626116371" duration="67000" />
       <workItem from="1662024053899" duration="476000" />
       <workItem from="1662024532530" duration="1301000" />
-      <workItem from="1662037015200" duration="509000" />
+      <workItem from="1662037015200" duration="2320000" />
     </task>
     <task id="LOCAL-00001" summary="feat : flexton 테마로 적용">
       <created>1662024446887</created>
@@ -102,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662024623574</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix : Gemfile.lock">
+      <created>1662037810741</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1662037810741</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +221,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="feat : flexton 테마로 적용" />
     <MESSAGE value="fix : url 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix : url 변경" />
+    <MESSAGE value="fix : Gemfile.lock" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix : Gemfile.lock" />
   </component>
 </project>
