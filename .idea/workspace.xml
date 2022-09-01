@@ -28,10 +28,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43e934da-5a8a-48b0-8624-4f5534b99a13" name="Default Changelist" comment="fix : 다시 build">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-    </list>
+    <list default="true" id="43e934da-5a8a-48b0-8624-4f5534b99a13" name="Default Changelist" comment="fix : 다시 build" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +84,7 @@
       <workItem from="1597626116371" duration="67000" />
       <workItem from="1662024053899" duration="476000" />
       <workItem from="1662024532530" duration="1301000" />
-      <workItem from="1662037015200" duration="3341000" />
+      <workItem from="1662037015200" duration="3757000" />
     </task>
     <task id="LOCAL-00001" summary="feat : flexton 테마로 적용">
       <created>1662024446887</created>
@@ -117,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662039426017</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix : 다시 build">
+      <created>1662040684502</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662040684502</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

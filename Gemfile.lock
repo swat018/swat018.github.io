@@ -66,7 +66,6 @@ DEPENDENCIES
   bundler
   jekyll
   jekyll-paginate
-  tzinfo-data
   webrick (~> 1.7)
 
 BUNDLED WITH
